@@ -1,6 +1,6 @@
 package dsa.string;
 import java.util.Scanner;
-public class appendstringsusingSb {
+public class program1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String s1 = scanner.nextLine();

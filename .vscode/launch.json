@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "formatingnumbersdate",
+            "request": "launch",
+            "mainClass": "dsa.string.formatingnumbersdate",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "countvowels",
+            "request": "launch",
+            "mainClass": "dsa.string.countvowels",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "stringformatting",
+            "request": "launch",
+            "mainClass": "dsa.string.stringformatting",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "splittingandjoining",
+            "request": "launch",
+            "mainClass": "dsa.string.splittingandjoining",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "reverseastringwithoutreversemethod",
+            "request": "launch",
+            "mainClass": "dsa.string.reverseastringwithoutreversemethod",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "countoccurrence",
+            "request": "launch",
+            "mainClass": "dsa.string.countoccurrence",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "stringpalindrome",
+            "request": "launch",
+            "mainClass": "dsa.string.stringpalindrome",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "extractsubstring",
+            "request": "launch",
+            "mainClass": "dsa.string.extractsubstring",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "reverseastring",
+            "request": "launch",
+            "mainClass": "dsa.string.reverseastring",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "twostringsorequal",
+            "request": "launch",
+            "mainClass": "dsa.string.twostringsorequal",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "substring",
+            "request": "launch",
+            "mainClass": "dsa.string.substring",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "charAtmethod",
+            "request": "launch",
+            "mainClass": "dsa.string.charAtmethod",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "indexof",
+            "request": "launch",
+            "mainClass": "dsa.string.indexof",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "lengthcalculation",
+            "request": "launch",
+            "mainClass": "dsa.string.lengthcalculation",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "appendstringsusingSb",
+            "request": "launch",
+            "mainClass": "dsa.string.appendstringsusingSb",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "immutableusernameupdate",
+            "request": "launch",
+            "mainClass": "dsa.string.immutableusernameupdate",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "basicinputoutput",
+            "request": "launch",
+            "mainClass": "dsa.string.basicinputoutput",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "maximumvalueineach2dlayerin3darray",
+            "request": "launch",
+            "mainClass": "dsa.arrays.maximumvalueineach2dlayerin3darray",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "Averageofeach3dcolumnin3darray",
+            "request": "launch",
+            "mainClass": "dsa.arrays.Averageofeach3dcolumnin3darray",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "sumofeach2dlayerin3darray",
+            "request": "launch",
+            "mainClass": "dsa.arrays.sumofeach2dlayerin3darray",
+            "projectName": "dsa-work_18730ba4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
